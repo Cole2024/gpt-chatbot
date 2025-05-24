@@ -139,35 +139,7 @@ export default function Home() {
             <p className="mb-32">
               To start a conversation, type a message below and hit send
             </p>
-            <p className="mb-2">
-              Built by David Wu (
-              <a
-                className="text-blue-500"
-                target="_blank"
-                href="https://twitter.com/david_j_wu"
-              >
-                @david_j_wu
-              </a>
-              )
-            </p>
-            <p>
-              Read the tutorial to build this chatbot{" "}
-              <a
-                className="text-blue-500"
-                target="_blank"
-                href="https://davidwu.io/posts/building-a-chatbot-with-openais-chatgpt-api-nextjs-and-tailwind-css/"
-              >
-                here
-              </a>{" "}
-              on{" "}
-              <a
-                className="text-blue-500"
-                target="_blank"
-                href="https://davidwu.io/"
-              >
-                davidwu.io
-              </a>
-            </p>
+          
           </div>
         </div>
       )}
